@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "EmployeeProj", "Cornea\EmployeeProj.vbproj", "{A6008B9E-2C99-4C6F-AFBB-40390CB448B9}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Cornea Setup", "Cornea Setup\Cornea Setup.vdproj", "{C7D7B3CA-BCC7-4E7C-8DB3-3200EB399D6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6008B9E-2C99-4C6F-AFBB-40390CB448B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6008B9E-2C99-4C6F-AFBB-40390CB448B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6008B9E-2C99-4C6F-AFBB-40390CB448B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6008B9E-2C99-4C6F-AFBB-40390CB448B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7D7B3CA-BCC7-4E7C-8DB3-3200EB399D6B}.Debug|Any CPU.ActiveCfg = Debug
+		{C7D7B3CA-BCC7-4E7C-8DB3-3200EB399D6B}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

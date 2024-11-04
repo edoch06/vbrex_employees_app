@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Cornea\Cornea\bin\Debug\Cornea.exe
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Cornea\Cornea\bin\Debug\Cornea.pdb
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Cornea\Cornea\bin\Debug\Cornea.xml
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Cornea\Cornea\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Cornea\Cornea\obj\Debug\Cornea.MDICornea.resources
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Cornea\Cornea\obj\Debug\Cornea.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Cornea\Cornea\obj\Debug\EmployeeProj.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Cornea\Cornea\obj\Debug\Cornea.exe
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Cornea\Cornea\obj\Debug\Cornea.xml
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\Cornea\Cornea\obj\Debug\Cornea.pdb
